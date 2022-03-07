@@ -4,4 +4,3 @@ This file has important information.
 Workshop organizers:
 Johannes
 Aden
-Alan Turing
